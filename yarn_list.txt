@@ -1,0 +1,16 @@
+/* vi: set ft=txt:	*/
+
+C:\Users\skimura\src\repos\winenv>yarn global list
+yarn global v1.22.4
+warning package.json: No license field
+info "bash-language-server@1.11.1" has binaries:
+   - bash-language-server
+info "eslint@6.8.0" has binaries:
+   - eslint
+info "markdownlint-cli@0.22.0" has binaries:
+   - markdownlint
+info "prettier@2.0.3" has binaries:
+   - prettier
+info "sails@1.2.4" has binaries:
+   - sails
+Done in 7.22s.
