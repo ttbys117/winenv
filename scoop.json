@@ -1,0 +1,52 @@
+{
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main.git",
+            "Updated": "2023-12-27T05:23:43+09:00",
+            "Manifests": 1350
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2025-01-30T13:31:20+09:00",
+            "Manifests": 2122
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
+            "Updated": "2024-11-21T02:20:10+09:00",
+            "Manifests": 345
+        }
+    ],
+    "apps": [
+        {
+            "Version": "6.2",
+            "Updated": "2024-11-21T08:54:23.6546343+09:00",
+            "Info": "",
+            "Name": "firacode",
+            "Source": "nerd-fonts"
+        },
+        {
+            "Version": "0.56.3",
+            "Updated": "2024-12-03T17:36:16.1296907+09:00",
+            "Info": "",
+            "Name": "fzf",
+            "Source": "main"
+        },
+        {
+            "Version": "1.5.0",
+            "Updated": "2023-12-27T09:04:28.1254792+09:00",
+            "Info": "",
+            "Name": "osv-scanner",
+            "Source": "main"
+        },
+        {
+            "Version": "3.24",
+            "Updated": "2025-01-30T14:36:17.7892287+09:00",
+            "Info": "",
+            "Name": "yed",
+            "Source": "extras"
+        }
+    ]
+}
